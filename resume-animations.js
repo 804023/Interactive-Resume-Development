@@ -1,0 +1,1 @@
+document.getElementById("make-it-blue").style.color = "blue";
